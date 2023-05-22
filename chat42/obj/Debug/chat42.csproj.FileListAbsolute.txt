@@ -1,0 +1,12 @@
+C:\Users\samet\Desktop\yapisalprogramlama_projeler\chat42\chat42\bin\Debug\chat42.exe.config
+C:\Users\samet\Desktop\yapisalprogramlama_projeler\chat42\chat42\bin\Debug\chat42.exe
+C:\Users\samet\Desktop\yapisalprogramlama_projeler\chat42\chat42\bin\Debug\chat42.pdb
+C:\Users\samet\Desktop\yapisalprogramlama_projeler\chat42\chat42\obj\Debug\chat42.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\yapisalprogramlama_projeler\chat42\chat42\obj\Debug\chat42.csproj.SuggestedBindingRedirects.cache
+C:\Users\samet\Desktop\yapisalprogramlama_projeler\chat42\chat42\obj\Debug\chat42.Form1.resources
+C:\Users\samet\Desktop\yapisalprogramlama_projeler\chat42\chat42\obj\Debug\chat42.Form2.resources
+C:\Users\samet\Desktop\yapisalprogramlama_projeler\chat42\chat42\obj\Debug\chat42.Properties.Resources.resources
+C:\Users\samet\Desktop\yapisalprogramlama_projeler\chat42\chat42\obj\Debug\chat42.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\yapisalprogramlama_projeler\chat42\chat42\obj\Debug\chat42.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\yapisalprogramlama_projeler\chat42\chat42\obj\Debug\chat42.exe
+C:\Users\samet\Desktop\yapisalprogramlama_projeler\chat42\chat42\obj\Debug\chat42.pdb
